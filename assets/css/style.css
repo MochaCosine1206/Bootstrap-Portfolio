@@ -7,7 +7,7 @@ p {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
-.background {
+.background, .container {
     background-color: #4aaaa5;
     background-image: url(../images/pipes.png);
     background-repeat: repeat;
