@@ -22,13 +22,15 @@
     bottom: 0;
     left: 0;
     padding: 0;
+    text-decoration: none;
 }
+
+
 
 a.navbar-brand {
     background-color: #4aaaa5;
     padding: 0px 15px;
     font-size: 3rem;
-    font-family: 'Georgia', Times, Times New Roman, serif;
 }
 .navbar {
     padding: 0 1rem;
@@ -36,7 +38,6 @@ a.navbar-brand {
 
 #about {
     color: #4aaaa5;
-    font-family: 'Georgia', Times, Times New Roman, serif;
     margin-top: 21px;
     margin-bottom: 21px:
 }
